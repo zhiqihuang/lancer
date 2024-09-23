@@ -1,5 +1,5 @@
 # lancer
-Codebase for "Language Concept Erasure for Language-invariant Dense Retrieval" EMNLP 2024
+**(WIP)** Codebase for "Language Concept Erasure for Language-invariant Dense Retrieval" EMNLP 2024
 
 ### Training
 The training of lancer framework needs `msmarco passage ranking` and `mc4` multilingual datasets.
